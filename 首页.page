@@ -1,13 +1,19 @@
-# Welcome to Gitit!
+欢迎来到防火长城维基 !
+============
 
-This is the front page of your new gitit wiki.  You can edit this
-page by clicking on the "edit" tab at the top of the screen.
-For instructions on how to make a link to another wiki page, see [the
-Help page](Help#wiki-links). To create a new wiki page, just create a
-link to it and follow the link.
+帮助（英文）请参见 [Gitit User's Guide]().
 
-Help is always available through the "Help" link in the sidebar.
-More details on installing and configurating gitit are available
-in the [Gitit User's Guide]().
+防火长城简介
+======
 
-# Test markup
+防火长城（英语：Great Firewall，常用简称：GFW，中文也称中国国家防火墙、长城防火墙或万里防火墙），是對中华人民共和国政府在其管辖互联网内部建立的多套网络审查系统（包括相关行政审查系统）的称呼。其英文名称得自於2002年5月17日Charles R. Smith所寫的一篇關於中國網路審查的文章《The Great Firewall of China》，取與Great Wall（长城）相谐的效果，简写为Great Firewall，缩写GFW。隨著使用的拓廣，中文“墙”和英文“GFW”已被用於動詞，“GFWed”及“被墙”均指被防火長城所屏蔽。
+一般情况下，防火長城主要指中国政府监控和过滤互联网内容的软硬件系统，由服务器和路由器等设备，加上相关的应用程序所构成。它的作用主要是监控网络上的通讯，对认为不符合中国官方要求的传输内容，进行干扰、阻断、屏蔽。由於中國網絡審查廣泛，中國國內含有“不合適”内容的的網站，會受到政府直接的行政干預，被要求自我审查、自我监管，乃至關閉，故防火長城主要作用在於分析和過濾中國境內外網絡的資訊互相訪問。一些文章指出，GFW之父是中國工程院院士、北京郵電大學校長方滨兴。
+然而，防火长城对网络内容的审查是否限制和违反了言论自由，一直是受争议的话题。也有报告认为，防火长城其实是一种圆形监狱式的全面监控，以达到自我审查的目的。
+中國还有一套公开在公安部辖下的网络安全项目——金盾工程，金盾工程和防火长城的关系一直没有明确的认定。2009年中國政府強制要求安裝的電腦軟體綠壩，也被認為是防火長城的一部分。
+
+
+外部链接
+====
+
+* [防火长城-维基百科](http://zh.wikipedia.org/wiki/GFW)
+
